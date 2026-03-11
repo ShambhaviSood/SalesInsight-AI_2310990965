@@ -1,0 +1,21 @@
+Campaign,Channel,Impressions,Clicks,Conversions,Spend_USD,Revenue_USD,CTR_Percent
+Spring Sale,Google Ads,500000,15000,450,8000,22500,3.0
+Spring Sale,Facebook,320000,9600,288,5000,14400,3.0
+Spring Sale,Instagram,180000,7200,180,3500,9000,4.0
+Spring Sale,Email,90000,13500,675,500,33750,15.0
+Spring Sale,LinkedIn,60000,1800,90,2000,4500,3.0
+Summer Promo,Google Ads,620000,18600,558,9500,27900,3.0
+Summer Promo,Facebook,410000,12300,369,6200,18450,3.0
+Summer Promo,Instagram,230000,9200,276,4200,13800,4.0
+Summer Promo,Email,110000,16500,825,600,41250,15.0
+Summer Promo,LinkedIn,55000,1650,99,1800,4950,3.0
+Back to School,Google Ads,480000,14400,432,7800,21600,3.0
+Back to School,Facebook,290000,8700,261,4800,13050,3.0
+Back to School,Instagram,160000,6400,160,3200,8000,4.0
+Back to School,Email,85000,12750,637,480,31875,15.0
+Back to School,LinkedIn,48000,1440,72,1700,3600,3.0
+Black Friday,Google Ads,950000,28500,1140,15000,57000,3.0
+Black Friday,Facebook,700000,21000,840,11000,42000,3.0
+Black Friday,Instagram,450000,18000,540,8000,27000,4.0
+Black Friday,Email,200000,30000,2250,1000,112500,15.0
+Black Friday,LinkedIn,80000,2400,144,3000,7200,3.0

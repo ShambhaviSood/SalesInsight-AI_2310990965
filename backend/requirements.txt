@@ -1,0 +1,16 @@
+# Backend dependencies
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.18
+pydantic[email]==2.10.4
+pydantic-settings==2.7.1
+pandas==2.2.3
+openpyxl==3.1.5
+httpx==0.28.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+
+# Linting
+ruff==0.8.6

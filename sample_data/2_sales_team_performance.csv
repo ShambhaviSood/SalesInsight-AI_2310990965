@@ -1,0 +1,21 @@
+Month,Sales_Rep,Department,Deals_Closed,Quota,Revenue,Commission,Region
+Jan-2024,Alice Johnson,SaaS,12,10,48000,4800,East
+Jan-2024,Bob Smith,SaaS,8,10,32000,3200,West
+Jan-2024,Carol White,Enterprise,5,6,90000,9000,North
+Jan-2024,David Lee,SMB,20,18,36000,3600,South
+Jan-2024,Emma Davis,Enterprise,7,6,126000,12600,East
+Feb-2024,Alice Johnson,SaaS,14,10,56000,5600,East
+Feb-2024,Bob Smith,SaaS,6,10,24000,2400,West
+Feb-2024,Carol White,Enterprise,8,6,144000,14400,North
+Feb-2024,David Lee,SMB,22,18,39600,3960,South
+Feb-2024,Emma Davis,Enterprise,4,6,72000,7200,East
+Mar-2024,Alice Johnson,SaaS,16,12,64000,6400,East
+Mar-2024,Bob Smith,SaaS,11,12,44000,4400,West
+Mar-2024,Carol White,Enterprise,9,7,162000,16200,North
+Mar-2024,David Lee,SMB,25,20,45000,4500,South
+Mar-2024,Emma Davis,Enterprise,6,7,108000,10800,East
+Apr-2024,Alice Johnson,SaaS,10,12,40000,4000,East
+Apr-2024,Bob Smith,SaaS,13,12,52000,5200,West
+Apr-2024,Carol White,Enterprise,11,7,198000,19800,North
+Apr-2024,David Lee,SMB,18,20,32400,3240,South
+Apr-2024,Emma Davis,Enterprise,9,7,162000,16200,East
